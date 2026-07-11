@@ -6,3 +6,9 @@ Tamer hosny
 Ahmed saed 
 mostafa amer
 Amr diab
+
+Amr diab songs:
+songs name 1
+songs name 2
+songs name 3
+songs name 4
