@@ -1,7 +1,5 @@
 ONE => Song
 ==========================
-Meky
-Tamer hosny
 
 Ahmed saed 
 mostafa amer
